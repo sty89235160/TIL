@@ -21,7 +21,7 @@
 *OOP의 단점
 설계가 복잡함,메모리 사용량이 매우 높음,절차비향에 비해서 속도가 느림 
 
-*대표적인 언어
+##대표적인 언어
 Java, C++, Python, C#, JavaScript 등이있음.
 
 참고 자료:https://jeong-pro.tistory.com/95
