@@ -1,9 +1,8 @@
 # soild 원칙
 
+solid 원칙의 5가지 원칙
 
-
-
-
+------------------------------
 
 
 1. SRP (Single Responsibility Principle) - 단일 책임 원칙
