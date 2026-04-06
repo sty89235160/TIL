@@ -1,3 +1,11 @@
+# soild 원칙
+
+
+
+
+
+
+
 1. SRP (Single Responsibility Principle) - 단일 책임 원칙
 "어떤 클래스를 변경해야 하는 이유는 오직 하나뿐이어야 한다."
 
